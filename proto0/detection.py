@@ -1,6 +1,6 @@
 import csv
 
-file_path = 'temp.csv'
+file_path = 'right_side.csv'
 entry_count = 0  # 入場カウント
 exit_count = 0   # 退出カウント
 threshold = 300  # ラインの閾値
